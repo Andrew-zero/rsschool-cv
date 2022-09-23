@@ -16,6 +16,7 @@
 ## Skills
 - java basic
 - mysql
+- ability to work in a team
 
 ### Details
 - Belarus
