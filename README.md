@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Andrew-zero.github.io/rsschool-cv/
